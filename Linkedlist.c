@@ -25,4 +25,5 @@ while(pTmp != NULL)// 단순 연결 리스트로 구성된 전체 노드에 접�
 		printf("%s, %s\n", pTmp->szName, pTmp->szPhone);
 		pTmp = pTmp->pNext;
 	}
-} //수정 하나만 해보기!
+} //수정 하나만 해보기! 
+  //두 번째 수정
